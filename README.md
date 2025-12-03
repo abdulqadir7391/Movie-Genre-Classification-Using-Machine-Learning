@@ -58,4 +58,5 @@ movie-genre-classifier/
 │
 ├── README.md
 ├── requirements.txt
+
 └── .gitignore
